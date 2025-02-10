@@ -43,9 +43,18 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
