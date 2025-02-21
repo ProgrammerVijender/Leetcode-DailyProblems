@@ -15,6 +15,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -34,6 +35,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -94,4 +96,20 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
