@@ -61,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0062-unique-paths) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
