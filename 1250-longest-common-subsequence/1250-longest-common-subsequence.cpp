@@ -28,10 +28,33 @@ public:
         return dp[i][j];
     }
 
+
+
+    int lcsTab(string &s1, string &s2 ,vector< vector <int> > &dp )
+    {
+        int ans = 0;
+        for(int i_index = s1.length()-1; i_index >=0; i_index--)
+        {
+            for(int j_jndex = s2.length()-1; j_jndex >=0; j_jndex--)
+            {
+                if(s1[i_index] == s2[j_jndex])
+                {
+                    dp[i_index][j_jndex] = 1 + dp[i_index +1][j_jndex +1];
+                }
+                else
+                {
+                    dp[i_index][j_jndex] = max(dp[i_index][j_jndex +1] , dp[i_index+1][j_jndex ]);
+                }
+
+            
+            }
+        }
+        return dp[0][0];
+    }
     int longestCommonSubsequence(string text1, string text2) {
 
-        vector< vector <int> > dp(text1.length() +1 ,vector <int>(text2.length() +1, -1) );
-         int i = 0,j = 0;
-        return lcs(text1 , text2,i,j , dp);
+        vector< vector <int> > dp(text1.length() +1 ,vector <int>(text2.length() +1, 0) );
+        //  int i = 0,j = 0;
+        return lcsTab(text1 , text2 , dp);
     }
 };
