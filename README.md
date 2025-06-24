@@ -14,6 +14,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2048-build-array-from-permutation](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2107-find-unique-binary-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
