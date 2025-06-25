@@ -27,37 +27,70 @@ public:
 
 
     // recursion + Memoisation
-    int sol(vector<int>& nums , int curr , int prev , vector<vector<int>> &dp)
+    // int sol(vector<int>& nums , int curr , int prev , vector<vector<int>> &dp)
+    // {
+    //     int n = nums.size();
+
+    //     if(curr >= n)
+    //     {
+    //         return 0;
+    //     }
+
+    //     if(dp[curr][prev +1] != -1)
+    //     {
+    //         return dp[curr][prev +1];
+    //     }
+
+
+    //     int inc = 0;
+    //     if(prev == -1 || nums[curr] > nums[prev])
+    //     {
+    //         inc = 1 + sol(nums , curr + 1 , curr ,dp);
+    //     }
+    //     int exc = 0 + sol(nums , curr+1, prev ,dp);
+        
+    //     dp[curr][prev +1] = max(exc , inc);
+
+    //     return dp[curr][prev +1];
+    // }
+
+
+
+    // Using Tabulation method
+    int sol(vector<int>& nums , vector<vector<int>> &dp)
     {
         int n = nums.size();
 
-        if(curr >= n)
+        for(int curr=n-1; curr >=0; curr--)
         {
-            return 0;
-        }
-
-        if(dp[curr][prev +1] != -1)
-        {
-            return dp[curr][prev +1];
-        }
-
-
-        int inc = 0;
+            for(int prev =curr-1; prev >= -1; prev--)
+            {
+                int inc = 0;
         if(prev == -1 || nums[curr] > nums[prev])
         {
-            inc = 1 + sol(nums , curr + 1 , curr ,dp);
+            inc = 1 +  dp[curr +1][curr +1 ];
         }
-        int exc = 0 + sol(nums , curr+1, prev ,dp);
+        int exc = dp[curr +1][prev +1];
         
         dp[curr][prev +1] = max(exc , inc);
 
-        return dp[curr][prev +1];
+        }
+
+        }
+
+        return dp[0][0];
     }
 
 
 
+
+
+
     int lengthOfLIS(vector<int>& nums) {
-        vector < vector <int> > dp(nums.size() +1 , vector<int> (nums.size() +1, -1));
-        return sol(nums, 0 , -1 , dp);
+        vector < vector <int> > dp(nums.size() +1 , vector<int> (nums.size() +1, 0));
+
+
+        return sol(nums, dp);
+
     }
 };
