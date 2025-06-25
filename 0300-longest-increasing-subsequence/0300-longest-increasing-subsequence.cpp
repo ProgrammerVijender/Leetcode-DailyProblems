@@ -1,7 +1,6 @@
 class Solution {
 public:
-    
-    // recursion solution 
+    // recursion solution
     // int sol(vector<int>& nums , int curr , int prev)
     // {
     //     int n = nums.size();
@@ -11,23 +10,21 @@ public:
     //         return 0;
     //     }
 
-
     //     int inc = 0;
     //     if(prev == -1 || nums[curr] > nums[prev])
     //     {
     //         inc = 1 + sol(nums , curr + 1 , curr);
     //     }
     //     int exc = 0 + sol(nums , curr+1, prev);
-        
+
     //     int ans = max(exc , inc);
 
     //     return ans;
     // }
 
-
-
     // recursion + Memoisation
-    // int sol(vector<int>& nums , int curr , int prev , vector<vector<int>> &dp)
+    // int sol(vector<int>& nums , int curr , int prev , vector<vector<int>>
+    // &dp)
     // {
     //     int n = nums.size();
 
@@ -41,56 +38,69 @@ public:
     //         return dp[curr][prev +1];
     //     }
 
-
     //     int inc = 0;
     //     if(prev == -1 || nums[curr] > nums[prev])
     //     {
     //         inc = 1 + sol(nums , curr + 1 , curr ,dp);
     //     }
     //     int exc = 0 + sol(nums , curr+1, prev ,dp);
-        
+
     //     dp[curr][prev +1] = max(exc , inc);
 
     //     return dp[curr][prev +1];
     // }
 
-
-
     // Using Tabulation method
-    int sol(vector<int>& nums , vector<vector<int>> &dp)
-    {
-        int n = nums.size();
+    // int sol(vector<int>& nums, vector<vector<int>>& dp) {
+    //     int n = nums.size();
 
-        for(int curr=n-1; curr >=0; curr--)
-        {
-            for(int prev =curr-1; prev >= -1; prev--)
-            {
-                int inc = 0;
-        if(prev == -1 || nums[curr] > nums[prev])
-        {
-            inc = 1 +  dp[curr +1][curr +1 ];
-        }
-        int exc = dp[curr +1][prev +1];
+    //     for (int curr = n - 1; curr >= 0; curr--) {
+    //         for (int prev = curr - 1; prev >= -1; prev--) {
+    //             int inc = 0;
+    //             if (prev == -1 || nums[curr] > nums[prev]) {
+    //                 inc = 1 + dp[curr + 1][curr + 1];
+    //             }
+    //             int exc = dp[curr + 1][prev + 1];
+
+    //             dp[curr][prev + 1] = max(exc, inc);
+    //         }
+    //     }
+
+    //     return dp[0][0];
+    // }
+
+    // Using Tabulation method with Space optimize
+    int solTab_with_SpaceOptimized(vector<int>& nums   ) {
+
         
-        dp[curr][prev +1] = max(exc , inc);
+        int n = nums.size();
+        vector <int> cur(n+1 , 0);
+        vector <int> next(n+1 , 0);
 
+        for (int curr = n - 1; curr >= 0; curr--) {
+            for (int prev = curr - 1; prev >= -1; prev--) {
+                int inc = 0;
+                if (prev == -1 || nums[curr] > nums[prev]) {
+                    inc = 1 + next[curr + 1];
+                }
+                int exc = next[prev + 1];
+
+                cur[prev + 1] = max(exc, inc);
+                
+            }
+            next = cur;
         }
 
-        }
-
-        return dp[0][0];
+        return cur[0];
     }
 
-
-
-
-
-
     int lengthOfLIS(vector<int>& nums) {
-        vector < vector <int> > dp(nums.size() +1 , vector<int> (nums.size() +1, 0));
+        
+        // vector<vector<int>> dp(nums.size() + 1,vector<int>(nums.size() + 1, 0));
+        // return sol(nums, dp);
 
 
-        return sol(nums, dp);
-
+        // Tabulation space optimized
+        return solTab_with_SpaceOptimized(nums);
     }
 };
