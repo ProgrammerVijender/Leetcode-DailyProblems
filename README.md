@@ -36,6 +36,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1364-tuple-with-same-product) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
@@ -81,6 +82,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
 ## Stack
@@ -122,6 +124,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
@@ -129,6 +132,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
