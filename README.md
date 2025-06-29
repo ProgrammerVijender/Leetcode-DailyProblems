@@ -7,6 +7,7 @@
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
@@ -108,6 +109,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
