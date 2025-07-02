@@ -87,6 +87,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
 | ------- |
