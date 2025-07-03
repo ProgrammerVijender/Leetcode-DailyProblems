@@ -47,6 +47,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -207,4 +209,12 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
