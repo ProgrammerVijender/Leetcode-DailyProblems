@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
@@ -98,6 +99,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -111,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0072-edit-distance) |
