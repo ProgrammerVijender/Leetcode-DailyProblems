@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -124,6 +125,7 @@
 | [0062-unique-paths](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
