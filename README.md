@@ -26,6 +26,7 @@
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -259,4 +263,8 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
