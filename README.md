@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0940-fruit-into-baskets) |
@@ -159,6 +161,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -237,6 +240,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search
