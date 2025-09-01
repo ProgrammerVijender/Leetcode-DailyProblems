@@ -20,6 +20,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2107-find-unique-binary-string) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2434-design-a-number-container-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
@@ -175,6 +177,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
