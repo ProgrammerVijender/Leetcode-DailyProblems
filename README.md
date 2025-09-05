@@ -264,6 +264,7 @@
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
@@ -273,6 +274,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -295,4 +297,8 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
