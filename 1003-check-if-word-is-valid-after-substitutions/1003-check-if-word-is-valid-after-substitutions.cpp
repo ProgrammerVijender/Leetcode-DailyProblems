@@ -2,20 +2,47 @@ class Solution {
 public:
     bool isValid(string s) {
         
-        if(s.size() == 0)
+        stack<char> st;
+        for(char i:s)
         {
-            return 1;
+            if( i == 'a')
+            {
+                st.push(i);
+            }
+            else if(i == 'b')
+            {
+                if(!st.empty()  &&  st.top() == 'a' )
+                {
+                    st.push(i);
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            else
+            {
+                if(!st.empty()  &&   st.top() == 'b')
+                {
+                    st.pop();
+                    if(!st.empty()  &&  st.top() == 'a')
+                    {
+                        st.pop();
+                    }
+                    else
+                    {
+                        return 0;
+                    }
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+           
         }
 
-        int f = s.find("abc");
-        if(f != string::npos)
-        {
-        string left = s.substr(0, f);
-        string right = s.substr(f+3);
-        
-            return isValid(left+right);
-        }
-        return 0;
+        return (st.empty() ) ? 1:0;
 
     }
 };
