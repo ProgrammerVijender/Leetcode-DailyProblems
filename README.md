@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
