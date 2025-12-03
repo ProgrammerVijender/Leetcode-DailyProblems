@@ -75,6 +75,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -134,6 +135,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -167,6 +169,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
