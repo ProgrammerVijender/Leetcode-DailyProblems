@@ -136,6 +136,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
@@ -204,6 +205,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
@@ -216,6 +218,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
@@ -232,6 +235,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
