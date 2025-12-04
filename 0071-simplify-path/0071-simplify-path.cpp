@@ -1,52 +1,49 @@
 class Solution {
 public:
-
-    void buildAns(stack<string> &s, string &ans) {
-        if (s.empty()) {
-            return;
-        }
-        string minPath = s.top(); 
-        s.pop();
-        buildAns(s, ans);
-        ans += minPath;
-    }
-
     string simplifyPath(string path) {
 
-        stack<string> s;
-        int i = 0;
+        int i=0;
+        stack <string> st;
 
-        while (i < path.size()) {
-
-            int start = i;
-            int end = i + 1;
-
-            // Move until next '/'
-            while (end < path.size() && path[end] != '/') {
-                ++end;
+        while(i<path.size() )
+        {
+            while(i<path.size() &&  path[i] == '/')
+            {
+                i++;
             }
 
-            string minPath = path.substr(start, end - start);
-            i = end;
 
-            // Skip "/" and "/."
-            if (minPath == "/" || minPath == "/.") {
-                continue;
+            string temp;
+            while(i<path.size() &&  path[i] != '/')
+            {
+                temp +=path[i];
+                i++;
             }
 
-            // Normal path (e.g., "/a", "/b")
-            if (minPath != "/..") {
-                s.push(minPath);
+
+            if(temp == ".." )
+            { 
+                if(!st.empty())
+                {st.pop();}
             }
-            // Handle "/.."
-            else if (!s.empty()) {
-                s.pop();
-            }
+            else if(temp != "." && !temp.empty())
+            {st.push(temp);}
+
         }
 
-        string ans = s.empty() ? "/" : "";
-        buildAns(s, ans);
+        string sol;
+        while(!st.empty())
+        {
+        sol = "/" + st.top()+ sol;
+                       st.pop();
+        }
 
-        return ans;
-    }
+
+
+    return sol.empty() ? "/" : sol;
+
+  }
 };
+
+
+
