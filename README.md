@@ -202,6 +202,7 @@
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
@@ -211,6 +212,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -223,6 +225,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
@@ -300,6 +303,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
 ## Segment Tree
 |  |
