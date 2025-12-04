@@ -202,6 +202,7 @@
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -212,6 +213,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
@@ -225,6 +227,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -303,6 +306,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
 ## Segment Tree
