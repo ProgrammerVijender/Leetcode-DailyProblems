@@ -1,57 +1,46 @@
 class Solution {
 public:
     string decodeString(string s) {
-        stack <string > st;
+        stack<string> st;  
+        string curr = "";
+        int num = 0;
 
-        int i =0;
+        for(char ch : s) {
 
-        string ans;
-        while(i<s.length())
-        {
-            if(s[i] == ']')
-            {
-                string temp; 
-                while(!st.empty() && st.top() != "[")
-                {
-                    temp = st.top() + temp;
-                    st.pop();
-                }
-                // reverse(temp.begin() , temp.end());
-                
-                if (!st.empty() && st.top() == "[") {
-                    st.pop();
-                }
-
-                string num;
-
-                while(!st.empty() && isdigit(st.top()[0]))
-                {
-                    num = st.top() + num;
-                    st.pop();
-                }
-
-                int n = stoi(num);
-
-                string val;
-                for(int j=0; j<n; j++)
-                {
-                    val +=temp;
-                }
-                st.push(val);
-
+            if (isdigit(ch)) {
+                num = num * 10 + (ch - '0');   // form number
             }
-            else
-            {
-                st.push(string(1, s[i]));
+
+            else if (ch == '[') {
+                // push number and current string on stack
+                st.push(curr);
+                st.push(to_string(num));
+                curr = "";
+                num = 0;
             }
-            i++;
+
+            else if (ch == ']') {
+                // top is number
+                int repeat = stoi(st.top());
+                st.pop();
+
+                // next is previous string
+                string prev = st.top();
+                st.pop();
+
+                // build repeated string
+                string temp = "";
+                while(repeat--) temp += curr;
+
+                // append to previous part
+                curr = prev + temp;
+            }
+
+            else {
+                curr += ch;      // add character to current string
+            }
         }
 
-        while(!st.empty())
-        {
-            ans = st.top() + ans;
-            st.pop();
-        }
-        return ans;
+        return curr;
     }
 };
