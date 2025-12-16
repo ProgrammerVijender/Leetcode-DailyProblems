@@ -44,6 +44,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0940-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -214,6 +215,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -226,12 +228,14 @@
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -244,6 +248,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -270,6 +275,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
