@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    // need more practice
     TreeNode* build(int &i, int min, int max, vector<int>& preorder) {
         if (i >= preorder.size()) {
             return nullptr;
