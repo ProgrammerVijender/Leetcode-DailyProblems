@@ -126,6 +126,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -174,6 +175,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
