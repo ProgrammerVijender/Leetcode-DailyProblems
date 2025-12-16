@@ -20,6 +20,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
@@ -174,6 +175,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
