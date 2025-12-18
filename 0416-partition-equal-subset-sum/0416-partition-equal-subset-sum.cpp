@@ -1,47 +1,101 @@
 class Solution {
 public:
 
-    bool sol(vector <int>& nums , int i , int sum , int target ,  vector < vector <int > > &dp)
-    {  
-        if(sum == target)
-        {
-            return 1;
-        }
-        if(sum > target )
-        {
-            return 0;
-        }
-        if(i >= nums.size())
-        {
-            return 0;
-        }
+    // Recursion Approach :----
+    // bool solveUsingRecursion(vector<int>& arr, int index, int currSum, int target) {
+    //     // base cases
+    //     if (currSum == target)
+    //         return true;
 
-        if(dp[i][sum] != -1)
-        {
-            return dp[i][sum];
-        }
+    //     if (index >= arr.size() || currSum > target)
+    //         return false;
 
-        bool inc = sol(nums , i+1 , sum + nums[i] , target ,dp);
-        bool exc = sol(nums , i+1 , sum , target ,dp);
+    //     // include current element
+    //     bool include = solveUsingRecursion(arr, index + 1, currSum + arr[index], target);
+
+    //     // exclude current element
+    //     bool exclude = solveUsingRecursion(arr, index + 1, currSum, target);
+
+    //     return include || exclude;
+    // }
 
 
-        return dp[i][sum] = (inc || exc);
+
+    // Recursion + Memoisation Approach
+    // bool solveUsingMemoisation(vector<int>& arr, int index, int currSum, int target,
+    //                           vector<vector<int>>& dp) {
+    //     // base cases
+    //     if (currSum == target)
+    //         return true;
+
+    //     if (index >= arr.size() || currSum > target)
+    //         return false;
+
+    //     if (dp[index][currSum] != -1)
+    //         return dp[index][currSum];
+
+    //     bool include = solveUsingMemoisation(
+    //         arr, index + 1, currSum + arr[index], target, dp);
+
+    //     bool exclude = solveUsingMemoisation(
+    //         arr, index + 1, currSum, target, dp);
+
+    //     return dp[index][currSum] = (include || exclude);
+    // }
+
+    
+    
+    // Tabulation Method
+     bool solveUsingTabulation(vector<int>& arr, int target) {
+
+        int n = arr.size();
+        vector<vector<int>> dp(n+2 , vector<int> (target+1,0));
+        for(int row = n; row <=n; row++)
+        {
+            dp[row][target] = 1;
+        }
+
+        for(int index = n-1; index >= 0; index--)
+        {
+            for(int s= target; s>=0; s--)
+            {
+
+        bool include =false;
+        
+        if(s + arr[index] <= target) {
+            include = dp[index + 1] [s + arr[index]];
+            }
+
+        bool exclude = dp[index + 1] [s];
+                dp[index][s] = (include || exclude);
+            }
+        }
+        return dp[0][0];
     }
 
     bool canPartition(vector<int>& nums) {
-    
-    int total = 0;
-        for(auto & i:nums)
-        {
-            total += i;
+        int totalSum = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            totalSum += nums[i];
         }
-        
-        if(total & 1) // check odd
-        {
-            return 0;
-        }
-        int target = total /2 ;
-        vector < vector <int > > dp (nums.size()+1 , vector <int> (target+1 , -1));
-        return sol(nums , 0 , 0 , target , dp);
+
+        // odd sum cannot be partitioned
+        if (totalSum & 1)
+            return false;
+
+        int target = totalSum / 2;
+        int currSum = 0;
+        int index = 0;
+
+        // using recursion 
+        // return solveUsingRecursion(nums, index, currSum, target);
+
+        // using memoisation
+        // vector<vector<int> > dp(nums.size() + 1 , vector<int> (target + 1 , -1));
+        // return solveUsingMemoisation(nums , index , currSum , target , dp);
+
+        // using Tabulation method
+
+        return solveUsingTabulation(nums,target);
     }
 };
