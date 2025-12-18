@@ -46,33 +46,59 @@ public:
     
     
     // Tabulation Method
-     bool solveUsingTabulation(vector<int>& arr, int target) {
+    //  bool solveUsingTabulation(vector<int>& arr, int target) {
 
-        int n = arr.size();
-        vector<vector<int>> dp(n+2 , vector<int> (target+1,0));
-        for(int row = n; row <=n; row++)
-        {
-            dp[row][target] = 1;
-        }
+    //     int n = arr.size();
+    //     vector<vector<int>> dp(n+2 , vector<int> (target+1,0));
+    //     for(int row = n; row <=n; row++)
+    //     {
+    //         dp[row][target] = 1;
+    //     }
 
-        for(int index = n-1; index >= 0; index--)
-        {
-            for(int s= target; s>=0; s--)
-            {
+    //     for(int index = n-1; index >= 0; index--)
+    //     {
+    //         for(int s= target; s>=0; s--)
+    //         {
 
-        bool include =false;
+    //     bool include =false;
         
-        if(s + arr[index] <= target) {
-            include = dp[index + 1] [s + arr[index]];
-            }
+    //     if(s + arr[index] <= target) {
+    //         include = dp[index + 1] [s + arr[index]];
+    //         }
 
-        bool exclude = dp[index + 1] [s];
-                dp[index][s] = (include || exclude);
-            }
+    //     bool exclude = dp[index + 1] [s];
+    //             dp[index][s] = (include || exclude);
+    //         }
+    //     }
+    //     return dp[0][0];
+    // }
+
+    bool solveUsingTabSO(vector<int>& arr, int target) {
+    int n = arr.size();
+
+    vector<int> curr(target + 1, 0);
+    vector<int> next(target + 1, 0);
+
+    curr[target] = 1;
+    next[target] = 1;
+
+    for (int ind = n - 1; ind >= 0; ind--) {
+        for (int s = target; s >= 0; s--) {
+
+            bool include = 0;
+            if (s + arr[ind] <= target)
+                include = next[s + arr[ind]];
+
+            bool exclude = next[s];
+
+            curr[s] = (include || exclude);
         }
-        return dp[0][0];
+        // shifting
+        next = curr;
     }
 
+    return next[0];
+}
     bool canPartition(vector<int>& nums) {
         int totalSum = 0;
         for (int i = 0; i < nums.size(); i++) {
@@ -95,7 +121,9 @@ public:
         // return solveUsingMemoisation(nums , index , currSum , target , dp);
 
         // using Tabulation method
+        // return solveUsingTabulation(nums,target);
 
-        return solveUsingTabulation(nums,target);
+        // using SPace optimised Tabulation method
+        return solveUsingTabSO(nums,target);
     }
 };
