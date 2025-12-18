@@ -176,6 +176,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1143-longest-common-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
