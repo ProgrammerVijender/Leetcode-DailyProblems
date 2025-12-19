@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
@@ -119,6 +121,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
@@ -168,6 +171,7 @@
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -366,4 +370,12 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
