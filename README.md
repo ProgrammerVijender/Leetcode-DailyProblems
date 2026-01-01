@@ -7,6 +7,7 @@
 | [0036-valid-sudoku](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0066-plus-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
