@@ -36,15 +36,12 @@ public:
 
         return dp[m][n] = maxi;
     }
-
-
-    // tabulation method
-    int sol2(vector<int>& nums1, vector<int>& nums2)
+  int sol2(vector<int>& nums1, vector<int>& nums2)
     {
         int m = nums1.size();
         int n = nums2.size();
 
-        vector<vector<int>> dp(m+1, vector<int>(n+1, INT_MIN));
+        vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
 
         for(int i=m-1; i>=0; i--)
         {
@@ -72,6 +69,43 @@ public:
         return dp[0][0];
     }
 
+    // Tabulation Space optimized;
+      int sol3(vector<int>& nums1, vector<int>& nums2 )
+    {
+        int m = nums1.size();
+        int n = nums2.size();
+
+        vector<int> next(n + 1, INT_MIN);
+        vector<int> curr(n + 1, INT_MIN);
+
+        for(int i=m-1; i>=0; i--)
+        {
+            for(int j=n-1; j>=0; j--)
+            {
+                 // take 
+        int take = nums1[i] * nums2[j];
+
+        // if next value positive h to take me add karlenge max ans ke liye
+        if(next[j+1] > 0 )
+        {
+            take += next[j+1];
+        }
+
+        // skip 1 element
+        int SkipNum1 = next[j];
+        int SkipNum2 = curr[j+1];
+
+
+        // max lenge teeno kaa
+        curr[j] = max({ take, SkipNum1,  SkipNum2 });
+            }
+            next = curr;
+        }
+
+
+        return next[0];
+    }
+
 
     int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
         
@@ -79,6 +113,8 @@ public:
         // return  sol(nums1, nums2 , dp,  0 , 0);
 
 
-            return  sol2(nums1, nums2 );
+            // return  sol2(nums1, nums2 );
+
+            return sol3(nums1,nums2 );
     }
 };
