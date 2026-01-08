@@ -22,6 +22,7 @@
 | [1364-tuple-with-same-product](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -190,6 +191,7 @@
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
