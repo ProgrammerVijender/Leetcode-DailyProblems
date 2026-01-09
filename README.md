@@ -52,6 +52,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -237,6 +238,7 @@
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -255,6 +257,7 @@
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -265,6 +268,7 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -278,6 +282,7 @@
 | [0437-path-sum-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
