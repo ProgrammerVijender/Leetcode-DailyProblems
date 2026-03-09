@@ -201,6 +201,7 @@
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 | Problem Name | Difficulty |
