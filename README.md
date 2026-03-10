@@ -9,6 +9,7 @@
 | [0064-minimum-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -412,4 +414,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
