@@ -366,6 +366,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
