@@ -40,6 +40,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -224,6 +225,7 @@
 | ------- | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -359,6 +361,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1975-maximum-matrix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
