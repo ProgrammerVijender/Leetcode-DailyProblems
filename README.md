@@ -45,6 +45,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -75,6 +76,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
