@@ -134,6 +134,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2523-closest-prime-numbers-in-range](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -448,4 +449,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 <!---LeetCode Topics End-->
