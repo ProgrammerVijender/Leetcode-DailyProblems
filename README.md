@@ -29,6 +29,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
