@@ -46,6 +46,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
@@ -78,6 +79,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Counting
@@ -373,6 +375,7 @@
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
