@@ -49,6 +49,7 @@
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -82,6 +83,7 @@
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3830-find-closest-person](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3830-find-closest-person) |
 ## String
 | Problem Name | Difficulty |
