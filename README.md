@@ -146,6 +146,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3830-find-closest-person](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3830-find-closest-person) |
 ## String
 | Problem Name | Difficulty |
