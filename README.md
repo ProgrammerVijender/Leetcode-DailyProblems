@@ -31,6 +31,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1975-maximum-matrix-sum) |
@@ -199,6 +200,7 @@
 | [0392-is-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-reverse-only-letters](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0917-reverse-only-letters) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -379,6 +381,7 @@
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
