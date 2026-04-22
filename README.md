@@ -42,6 +42,7 @@
 | [2107-find-unique-binary-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -175,6 +176,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3447-clear-digits) |
@@ -446,6 +448,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0139-word-break) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
