@@ -51,6 +51,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -207,6 +208,7 @@
 | [0917-reverse-only-letters](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0917-reverse-only-letters) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +276,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +394,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
