@@ -152,6 +152,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3830-find-closest-person](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3830-find-closest-person) |
@@ -238,6 +239,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +411,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
