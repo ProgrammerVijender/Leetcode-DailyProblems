@@ -43,6 +43,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2615-sum-of-distances/) | Medium |
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -250,6 +251,7 @@
 | ------- | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2615-sum-of-distances/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
