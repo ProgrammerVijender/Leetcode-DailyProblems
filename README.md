@@ -52,6 +52,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -132,6 +133,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2434-design-a-number-container-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +245,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3618-find-the-original-typed-string-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -405,6 +408,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
@@ -490,4 +494,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
