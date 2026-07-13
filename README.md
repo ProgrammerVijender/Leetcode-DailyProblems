@@ -416,6 +416,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1291-sequential-digits/) | Medium |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
