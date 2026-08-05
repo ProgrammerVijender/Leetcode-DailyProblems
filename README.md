@@ -328,6 +328,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +338,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,6 +505,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
