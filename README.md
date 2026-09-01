@@ -52,6 +52,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -92,6 +93,7 @@
 | [2689-rearranging-fruits](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3731-find-missing-elements](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -339,6 +341,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +411,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +442,7 @@
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ProgrammerVijender/Leetcode-DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
